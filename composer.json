@@ -1,6 +1,6 @@
 {
-    "name": "bshaffer/oauth2-server-php",
-    "description":"OAuth2 Server for PHP",
+    "name": "ottimis/oauth2",
+    "description":"OAuth2 Server for PHP with Slim by Ottimis Group",
     "keywords":["oauth","oauth2","auth"],
     "type":"library",
     "license":"MIT",
