@@ -200,6 +200,7 @@ class Jwt implements EncryptionInterface
         return array(
             'typ' => 'JWT',
             'alg' => $algorithm,
+            'kid' => '4017fcea-af99-4de1-a9f2-cc755f762513'
         );
     }
 
